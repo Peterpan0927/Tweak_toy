@@ -1,0 +1,9 @@
+Package: com.iosre.iosretargetapp
+Name: iOSRETargetApp
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: peterpan
+Author: peterpan
+Section: Utilities
+Version: 0.0.1-13+debug
+Installed-Size: 76
